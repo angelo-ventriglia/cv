@@ -33,14 +33,14 @@ sidebar:
         
 
     interests:
+      - item: Humanities
+        link: https://en.wikipedia.org/wiki/Humanities
+
+      - item: Publishing
+        link: https://en.wikipedia.org/wiki/Publishing
+
       - item: Table Tennis
-        link:
-
-      - item: Digital Publishing
-        link:
-
-      - item: Communication
-        link:
+        link: https://www.ittf.com/
 
 career-profile:
     title: Career Profile
