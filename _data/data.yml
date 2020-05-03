@@ -22,7 +22,7 @@ sidebar:
     twitter: '@angelovent'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
-    goodreads: # Number-Username, e.g. 123456-alandoe
+    goodreads: 9751155-angelo-ventriglia # Number-Username, e.g. 123456-alandoe
 
     languages:
       - idiom: Italian
@@ -30,9 +30,7 @@ sidebar:
 
       - idiom: English
         level: Professional
-
-      - idiom: 
-        level: 
+        
 
     interests:
       - item: Table Tennis
