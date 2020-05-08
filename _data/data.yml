@@ -57,7 +57,7 @@ education:
       university: Fondazione Arnoldo e Alberto Mondadori, Associazione Italiana Editori, Università degli Studi di Milano
       time: 2012
       details: |
-        Cultura editoriale | Sceenari e strutture del mercato editoriale | Lavoro redazionale | Economia, marketing e comunicazione editoriale
+        Cultura editoriale | Scenari e strutture del mercato editoriale | Lavoro redazionale | Economia, marketing e comunicazione editoriale
     - degree: Laurea Specialistica in Comunicazione d'impresa | (LS 59/S)
       university: Università degli Studi di Salerno
       time: 2007 - 2009
@@ -83,10 +83,6 @@ publications:
     intro: |
       Soon online
     papers:
-      - title:  
-        link: 
-        authors:
-        conference:
 
 skills:
     title: Skills
