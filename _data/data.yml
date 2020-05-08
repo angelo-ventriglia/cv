@@ -24,14 +24,14 @@ sidebar:
     codewars:
     goodreads: 9751155-angelo-ventriglia # Number-Username, e.g. 123456-alandoe
 
-    languages:
+    lingue:
       - idiom: Italiano
         level: Madrelingua
 
       - idiom: Inglese
         level: Professionale
         
-    interests:
+    interessi:
       - item: Humanities
         link: https://en.wikipedia.org/wiki/Humanities
 
@@ -52,7 +52,7 @@ career-profile:
         - supporto agli utenti dei servizi digitali offerti dalla casa editrice
 
         Lavoro da sempre con l'obiettivo di favorire l'incontro tra i libri, la conoscenza e le persone attraverso il web. 
-education:
+formazione:
     - degree: Master in Editoria libraria 
       university: Fondazione Arnoldo e Alberto Mondadori, Associazione Italiana Editori, Università degli Studi di Milano
       time: 2012
@@ -65,7 +65,7 @@ education:
         Tesi in E-marketing: L’INTERNET MARKETING MIX DELL’IMPRESA EDITORIALE ORIENTATA AL CLIENTE OPINION LEADER. Innovazioni di prodotto e di processo nel caso Liguori Editore | Relatore Prof. A. SIANO
             - Alcuni esami sostenuti: E-marketing; Management della comunicazione aziendale; Informatica per il commercio elettronico; Information Design
             - Voto di Laurea: 110/110
-experiences:
+experienza:
     - role: Redattore Digitale Junior > Redattore Digitale > Digital Editor
       time: 2013 - Present
       company: FrancoAngeli
@@ -85,7 +85,7 @@ publications:
     papers:
 
 skills:
-    title: Skills
+    title: Competenze
 
     toolset:
       - name: Digital Media
