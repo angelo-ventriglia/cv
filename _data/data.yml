@@ -24,164 +24,92 @@ sidebar:
     codewars:
     goodreads: 9751155-angelo-ventriglia # Number-Username, e.g. 123456-alandoe
 
-    languages:
-      - idiom: Italian
-        level: Native
+    lingue:
+      - idiom: Italiano
+        level: Madrelingua
 
-      - idiom: English
-        level: Professional
+      - idiom: Inglese
+        level: Professionale
         
 
-    interests:
+    interessi:
       - item: Humanities
         link: https://en.wikipedia.org/wiki/Humanities
 
-      - item: Publishing
+      - item: Editoria
         link: https://en.wikipedia.org/wiki/Publishing
 
-      - item: Table Tennis
+      - item: Tennistavolo
         link: https://www.ittf.com/
 
 career-profile:
-    title: Career Profile
+    title: About me
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      Dal 2012 vivo a Milano, dove studio e pratico editoria digitale per lavoro e per passione. Una tesi di laurea sul marketing online di una casa editrice, alcune esperienze in ambito comunicazione e un Master in editoria prima di arrivare in FrancoAngeli. Qui da gennaio 2013 mi occupo o mi sono occupato di:
+- progettazione e gestione di piattaforme (Journals&Series, Open Access) [Open Journal Systems, Open Monograph Press] e blog aziendali (Dietro le Quarte, Neo, Professioni digitali) [Wordpress]
+- comunicazione e ufficio stampa [Mailchimp, Linkedin, Twitter]
+- progettazione e produzione di contenuti multimediali [Canva, VideoPad]
+- supervisione della produzione e distribuzione di ebook in formato EPUB [Html+Css, Sigil, Cantook]
+- supporto agli utenti dei servizi digitali offerti dalla casa editrice
+
+Lavoro da sempre con l’obiettivo di favorire l’incontro tra i libri, la conoscenza e le persone attraverso il web. 
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: Master in Editoria libraria 
+      university: Fondazione Arnoldo e Alberto Mondadori, Associazione Italiana Editori, Università degli Studi di Milano
+      time: 2012
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
+      Cultura editoriale | Sceenari e strutture del mercato editoriale | Lavoro redazionale | Economia, marketing e comunicazione editoriale
+    - degree: Laurea Specialistica in Comunicazione d'impresa (LS 59/S)
+      university: Università degli Studi di Salerno
+      time: 2007 - 2009
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
-experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-projects:
-    title: Projects
-    intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
-
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
-
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-publications:
-    title: Publications
+        Tesi in E-marketing: L’INTERNET MARKETING MIX DELL’IMPRESA EDITORIALE ORIENTATA AL CLIENTE OPINION LEADER. Innovazioni di prodotto e di processo nel caso Liguori Editore | Relatore Prof. A. SIANO
+          - Alcuni esami sostenuti: E-marketing; Management della comunicazione aziendale; Informatica per il commercio elettronico; Information Design
+          - Voto di Laurea: 110/110
+esperienza:
+    - role: Redattore Digitale Junior > Redattore Digitale > Digital Editor
+      time: 2013 - Present
+      company: FrancoAngeli
+progetti:
+    title: Progetti
     intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+      Soon online
+    assignments:
+      - title: 
+        link: 
+        tagline: 
+        
+publications:
+    title: Pubblicazioni
+    intro: |
+      Soon online
     papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
+      - title:  
+        link: 
+        authors:
         conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
-
-      - name: Javascript & jQuery
-        level: 98%
-
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
+      - name: Digital Media
         level: 95%
 
-      - name: Ruby on Rails
+      - name: Media Relations
+        level: 95%
+
+      - name: Publishing
+        level: 95%
+
+      - name: Corporate Communication
+        level: 95%
+
+      - name: Project Management
         level: 85%
 
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: HTML+CSS
+        level: 80%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
