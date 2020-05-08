@@ -42,7 +42,7 @@ sidebar:
         link: https://www.ittf.com/
 
 career-profile:
-    title: About me
+    title: About
     summary: |
       Dal 2012 vivo a Milano, dove studio e pratico editoria digitale per lavoro e per passione. Una tesi di laurea sul marketing online di una casa editrice, alcune esperienze in ambito comunicazione e un Master in editoria prima di arrivare in FrancoAngeli. Qui da gennaio 2013 mi occupo o mi sono occupato di:
         - progettazione e gestione di piattaforme (Journals&Series, Open Access) [Open Journal Systems, Open Monograph Press] e blog aziendali (Dietro le Quarte, Neo, Professioni digitali) [Wordpress]
@@ -58,7 +58,7 @@ education:
       time: 2012
       details: |
         Cultura editoriale | Sceenari e strutture del mercato editoriale | Lavoro redazionale | Economia, marketing e comunicazione editoriale
-    - degree: Laurea Specialistica in Comunicazione d'impresa (LS 59/S)
+    - degree: Laurea Specialistica in Comunicazione d'impresa | (LS 59/S)
       university: Università degli Studi di Salerno
       time: 2007 - 2009
       details: |
@@ -86,7 +86,7 @@ publications:
       - title:  
         link: 
         authors:
-        conference: Addison-Wesley, 1968
+        conference:
 
 skills:
     title: Skills
