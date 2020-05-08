@@ -45,28 +45,28 @@ career-profile:
     title: About me
     summary: |
       Dal 2012 vivo a Milano, dove studio e pratico editoria digitale per lavoro e per passione. Una tesi di laurea sul marketing online di una casa editrice, alcune esperienze in ambito comunicazione e un Master in editoria prima di arrivare in FrancoAngeli. Qui da gennaio 2013 mi occupo o mi sono occupato di:
-- progettazione e gestione di piattaforme (Journals&Series, Open Access) [Open Journal Systems, Open Monograph Press] e blog aziendali (Dietro le Quarte, Neo, Professioni digitali) [Wordpress]
-- comunicazione e ufficio stampa [Mailchimp, Linkedin, Twitter]
-- progettazione e produzione di contenuti multimediali [Canva, VideoPad]
-- supervisione della produzione e distribuzione di ebook in formato EPUB [Html+Css, Sigil, Cantook]
-- supporto agli utenti dei servizi digitali offerti dalla casa editrice
+        - progettazione e gestione di piattaforme (Journals&Series, Open Access) [Open Journal Systems, Open Monograph Press] e blog aziendali (Dietro le Quarte, Neo, Professioni digitali) [Wordpress]
+        - comunicazione e ufficio stampa [Mailchimp, Linkedin, Twitter]
+        - progettazione e produzione di contenuti multimediali [Canva, VideoPad]
+        - supervisione della produzione e distribuzione di ebook in formato EPUB [Html+Css, Sigil, Cantook]
+        - supporto agli utenti dei servizi digitali offerti dalla casa editrice
 
-Lavoro da sempre con l'obiettivo di favorire l'incontro tra i libri, la conoscenza e le persone attraverso il web. 
+        Lavoro da sempre con l'obiettivo di favorire l'incontro tra i libri, la conoscenza e le persone attraverso il web. 
 education:
     - degree: Master in Editoria libraria 
       university: Fondazione Arnoldo e Alberto Mondadori, Associazione Italiana Editori, Università degli Studi di Milano
       time: 2012
       details: |
-      Cultura editoriale | Sceenari e strutture del mercato editoriale | Lavoro redazionale | Economia, marketing e comunicazione editoriale
+        Cultura editoriale | Sceenari e strutture del mercato editoriale | Lavoro redazionale | Economia, marketing e comunicazione editoriale
     - degree: Laurea Specialistica in Comunicazione d'impresa (LS 59/S)
       university: Università degli Studi di Salerno
       time: 2007 - 2009
       details: |
         Tesi in E-marketing: L’INTERNET MARKETING MIX DELL’IMPRESA EDITORIALE ORIENTATA AL CLIENTE OPINION LEADER. Innovazioni di prodotto e di processo nel caso Liguori Editore | Relatore Prof. A. SIANO
-          - Alcuni esami sostenuti: E-marketing; Management della comunicazione aziendale; Informatica per il commercio elettronico; Information Design
-          - Voto di Laurea: 110/110
+            - Alcuni esami sostenuti: E-marketing; Management della comunicazione aziendale; Informatica per il commercio elettronico; Information Design
+            - Voto di Laurea: 110/110
 experiences:
-    - role: Redattore Digitale Junior > Redattore Digitale > Digital Editor
+    - role: Redattore Digitale Junior - Redattore Digitale - Digital Editor
       time: 2013 - Present
       company: FrancoAngeli
 projects:
