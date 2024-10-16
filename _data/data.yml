@@ -67,21 +67,7 @@ formazione:
 experience:
       role: Soon online
       time:
-      company: 
-projects:
-    title: Progetti
-    intro: |
-      Soon online
-    assignments:
-      - title: 
-        link: 
-        tagline: 
-        
-publications:
-    title: Pubblicazioni
-    intro: |
-      Soon online
-    papers:
+      company:
 
 skills:
     title: Competenze
